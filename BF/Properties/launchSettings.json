@@ -1,0 +1,20 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "HelloWorld": {
+      "commandName": "Project",
+      "commandLineArgs": "helloworld.bf"
+    },
+    "Adder": {
+      "commandName": "Project",
+      "commandLineArgs": "adder.bf"
+    },
+    "ROT": {
+      "commandName": "Project",
+      "commandLineArgs": "rot13.bf"
+    }
+  }
+}
